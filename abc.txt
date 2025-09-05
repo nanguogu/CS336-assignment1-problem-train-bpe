@@ -1,0 +1,1 @@
+This chunking will always be valid, since we never want to merge across document boundaries. For the purposes of the assignment, you can always split in this way.
