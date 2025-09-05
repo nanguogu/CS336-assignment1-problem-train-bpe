@@ -5,4 +5,9 @@
 ## 更新方向
 目前计划先对此代码进行优化，目前每次寻找出现频率最高的组合都需要遍历整个列表，消耗计算资源太高，并且发生修改的只在组合过后的位置，设想是遍历一次，后续只更新部分。
 课程中指导可以做并行化的优化，不过本人技能有限，等我提升一波再战。
+## 学习资源
+课程内容：https://www.bilibili.com/video/BV18ntqzrELM/?spm_id_from=333.337.search-card.all.click
+assignment1 PDF的中文翻译外加指导：https://www.heywhale.com/mw/project/689709e023583639fc675b5c
+assignment1的参考作业代码：https://github.com/weiruihhh/cs336_note_and_hw/blob/main/chapter1/hw1/hw1-1bpe_tokenzier_train.py
+简易版代码指导(这个与作业要求稍有出入，但贵在逻辑清晰，代码便于理解)：https://huggingface.co/learn/llm-course/zh-CN/chapter6/5
 **争取完成全部的CS336的全部作业！！！**
